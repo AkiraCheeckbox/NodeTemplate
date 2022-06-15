@@ -22,13 +22,13 @@ DBPASSWORD = *****
 STRIPE_KEY =  *******
 
 ## Firebase
-FIREBASE_apiKey = *******
-FIREBASE_authDomain = *****
-FIREBAES_projectId = *******
-FIRBASE_storageBucket = ******
-FIREBASE_messagingSenderId = *******
-FIREBASE_appId = *******
-FIREBASE_measurementId = ********
+FIREBASE_APIKEY = ********
+FIREBASE_AUTHDOMAIN =  ********
+FIREBASE_PROJECTID = ********
+FIREBASE_STORAGEBUCKET = *********
+FIREBASE_MESSAGINGSENDERID = *********
+FIREBASE_APPID = ***********
+FIREBASE_MEASUERMENTID = ************
 ```
 all of them depends on the dev einviroment(production/dedug)
     
