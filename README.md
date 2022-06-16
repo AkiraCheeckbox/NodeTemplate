@@ -1,5 +1,5 @@
 # Node template
-![alt text](https://user-images.githubusercontent.com/98392643/174004535-d20fc95f-b001-4b20-b671-b966e6ded023.png)
+![alt text](https://user-images.githubusercontent.com/98392643/174004535-d20fc95f-b001-4b20-b671-b966e6ded023.png =250x)
 ## Explanation
 ref: https://whimsical.com/node-8g1CbpBFdUrD6hQ2EE9cZN
 
